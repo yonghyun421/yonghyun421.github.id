@@ -22,17 +22,15 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-sharp`,
+      resolve: `gatsby-source-filesystem`,
       options: {
-        defaults: {
-          formats: ['auto', 'webp'],
-          quality: 100,
-          placeholder: 'blurred',
-        },
+        name: `images`,
+        path: `${__dirname}/static`,
       },
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
