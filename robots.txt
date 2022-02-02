@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yonghyun421.github.io/sitemap/sitemap-index.xml
+Host: https://yonghyun421.github.io
