@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `YongHyun's Dev-Blog`,
-    description: `변화를 두려워하지 않는 개발자 김용현입니다.`,
+    description: `변화를 두려워하지 않는 프론트엔드 개발자 김용현입니다.`,
     author: `YongHyun`,
     siteUrl: 'https://yonghyun421.github.io/', // 배포 후 변경 예정
   },
