@@ -3,7 +3,7 @@ date: '2022-01-26'
 title: 'Redux-Observable'
 categories: ['React', 'Redux', 'Observable']
 summary: 'Redux도 어려운데 Observable가 또 있다고?'
-thumbnail: './image/redux-observable.png'
+thumbnail: './redux-observable.png'
 ---
 
 # Redux Observable란?
