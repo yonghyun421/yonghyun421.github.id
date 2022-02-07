@@ -3,7 +3,7 @@ date: '2022-01-06'
 title: 'Virtual DOM'
 categories: ['React', 'TIL', 'Virtual-DOM']
 summary: 'Virtual DOM에 대해서 알아보자'
-thumbnail: './test.jpeg'
+thumbnail: './virtualDOM.jpg'
 ---
 
 # Virtual DOM이란?
