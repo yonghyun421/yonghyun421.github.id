@@ -3,7 +3,7 @@ date: '2021-12-29'
 title: '불변의 법칙'
 categories: ['React', 'TIL', 'Immutable']
 summary: '왜 변하면 안되는거야'
-thumbnail: './react.png'
+thumbnail: './images/react.png'
 ---
 
 # 불변의 법칙

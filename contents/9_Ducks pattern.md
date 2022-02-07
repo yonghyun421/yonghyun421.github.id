@@ -3,7 +3,7 @@ date: '2022-01-14'
 title: 'Redux Ducks pattern'
 categories: ['React', 'TIL', 'Redux', 'Ducks-pattern']
 summary: '리덕스를 쓰는 방법...(1)'
-thumbnail: './redux-ducks.png'
+thumbnail: './images/redux-ducks.png'
 ---
 
 ## 리덕스 모듈이란?

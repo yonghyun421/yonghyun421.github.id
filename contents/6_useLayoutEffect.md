@@ -3,7 +3,7 @@ date: '2022-01-07'
 title: 'useLayoutEffect'
 categories: ['React', 'TIL', 'Hooks']
 summary: '함수형 컴포넌트에서도 라이프사이클을!'
-thumbnail: './react.png'
+thumbnail: './images/react.png'
 ---
 
 # useLayoutEffect

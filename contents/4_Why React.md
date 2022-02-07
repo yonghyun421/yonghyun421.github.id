@@ -3,7 +3,7 @@ date: '2021-12-24'
 title: '리액트를 사용하는 이유'
 categories: ['React', 'TIL', 'FE-Library']
 summary: '우리는 왜 리액트를 사용해야 할까?'
-thumbnail: './react.png'
+thumbnail: './images/react.png'
 ---
 
 # 리액트를 사용하는 이유

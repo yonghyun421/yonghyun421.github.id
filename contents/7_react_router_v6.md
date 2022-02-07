@@ -3,7 +3,7 @@ date: '2022-01-07'
 title: 'react-router-v6'
 categories: ['React', 'TIL', 'react-router']
 summary: '그새 또 업그레이드 됐다니까 다시 공부해보자...!'
-thumbnail: './reacter-router.jpg'
+thumbnail: './images/reacter-router.jpg'
 ---
 
 # react-router-v6

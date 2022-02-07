@@ -3,7 +3,7 @@ date: '2022-01-03'
 title: 'Redux-toolkit'
 categories: ['React', 'TIL', 'Redux']
 summary: 'Redux-toolkit을 사용해서 Redux를 좀 더 쉽게...?'
-thumbnail: './react.png'
+thumbnail: './images/react.png'
 ---
 
 # Redux의 문제점들

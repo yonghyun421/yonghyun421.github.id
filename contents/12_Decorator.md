@@ -1,10 +1,9 @@
-bvㅠ---
+---
 date: '2022-02-06'
 title: 'Decorator와 심화타입'
 categories: ['React', 'TIL', 'Typescript', 'Decorator']
 summary: 'About Decorator..!'
 thumbnail: './images/ts.png'
-
 ---
 
 # 데코레이터란?

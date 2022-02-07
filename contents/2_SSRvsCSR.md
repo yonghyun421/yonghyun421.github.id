@@ -3,7 +3,7 @@ date: '2021-12-23'
 title: 'SSR vs CSR'
 categories: ['React', 'SSR', 'CSR', 'TIL']
 summary: 'SSR과 CSR은 뭐가 다른걸까?'
-thumbnail: './ssr-csr.png'
+thumbnail: './images/ssr-csr.png'
 ---
 
 # SSR vs CSR
