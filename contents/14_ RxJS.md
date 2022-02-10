@@ -3,7 +3,7 @@ date: '2022-01-12'
 title: 'RxJS'
 categories: ['React', 'TIL', 'RxJS']
 summary: 'ReactiveX RxJS'
-thumbnail: './images/Rxjs.gif'
+thumbnail: './images/rxjs.jpeg'
 ---
 
 # RxJS란?
